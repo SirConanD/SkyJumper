@@ -3,5 +3,6 @@
 
     <string name="app_name">SkyJumper</string>
     <string name="hello_world">Hello world!</string>
+    <string name="title_activity_jumper_controller">JumperControllerActivity</string>
 
 </resources>
